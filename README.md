@@ -21,5 +21,7 @@ To use these code snippets, simply copy the code and modify the file paths to yo
 
 Note: The EfficientNet model weights need to be downloaded and placed in the correct directory for the second code snippet to work using the pip install command.
 
+
+#### Contributors:
 #### Aditya Ranade: 200533604@student.georgianc.on.ca
 #### Nilkanth Amin: 200535057@student.georgianc.on.ca
