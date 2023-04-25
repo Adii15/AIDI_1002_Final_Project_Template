@@ -20,3 +20,6 @@ The second code snippet performs saliency detection on an image using the Effici
 To use these code snippets, simply copy the code and modify the file paths to your specific image and weight locations. The code can be executed in a Python environment or saved as a Python script and run from the command line.
 
 Note: The EfficientNet model weights need to be downloaded and placed in the correct directory for the second code snippet to work using the pip install command.
+
+#### Aditya Ranade: 200533604@student.georgianc.on.ca
+#### Nilkanth Amin: 200535057@student.georgianc.on.ca
